@@ -1,3 +1,14 @@
+/*  Ques : Take input percentage of a student and print the Grade according to marks:
+
+1) 90-100 Excellent
+2) 80-90 Very Good
+3) 70-80 Good
+4) 60-70 Can do better
+5) 50-60 Average
+6) 40-50 Below Average
+7) <40 Fail
+*/
+
 #include <stdio.h>
 int main(){
     int n;
