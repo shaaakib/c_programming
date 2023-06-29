@@ -9,12 +9,14 @@ int main () {
     if(sp>cp){
         printf("Profit!");
     }
-    if(cp>sp){
+
+   else if(cp>sp){
         printf("Loss!");
 
-    }if(sp == cp){
-        printf("No profit, no Loss!");
-        
     }
+    else{
+        printf("No profit, no Loss!");    
+    }
+
     return 0;
 }
