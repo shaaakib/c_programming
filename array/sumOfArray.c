@@ -1,3 +1,5 @@
+// ? calculate the sum of all the elements in the given array
+
 #include <stdio.h>
 int main(){
     int arr[5] = {1,2,3,4,5};
