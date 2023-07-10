@@ -1,3 +1,10 @@
+// ? C program to enter student marks and find percentage and grade
+// If percentage >= 90% : Grade A
+// If percentage >= 80% : Grade B
+// If percentage >= 70% : Grade C
+// If percentage >= 60% : Grade D
+// If percentage >= 40% : Grade E
+// If percentage < 40% : Grade F
 #include <stdio.h>
 int main(){
     int num;

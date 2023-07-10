@@ -1,3 +1,7 @@
+// ? C program to check whether triangle is valid or not if sides are given
+// [A triangle is valid if the sum of its two sides is greater than the third side. Means if a, b,
+// c are three sides of a triangle. Then the triangle is valid if all three conditions are satisfied
+// a + b > c, a + c > b and b + c > a]
 #include <stdio.h>
 int main(){
      double side1, side2, side3;

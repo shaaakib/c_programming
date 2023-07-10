@@ -1,3 +1,10 @@
+// ? C program to check whether triangle is equilateral, scalene or isosceles
+// [Input sides of a triangle from user. Store it in some variables say side1, side2 and side3.
+// 1. Check if(side1 == side2 && side2 == side3), then the triangle is equilateral.
+// 2. If it is not an equilateral triangle then it may be isosceles. Check if(side1 == side2
+// || side1 == side3 || side2 == side3), then the triangle is isosceles.
+// 3. If it is neither equilateral nor isosceles then it is a scalene triangle.]
+
 #include <stdio.h>
 int main(){
     int side1, side2, side3;
