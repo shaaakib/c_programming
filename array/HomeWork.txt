@@ -1,3 +1,4 @@
 1. Calculate the product of all the elements in the given array.
 2. Find the minimum value out of all the elements in the array
 3. count the number of elements in given array grater than a  given number x.
+4. If an array arr contains n elements, then check if the given array is a palindrome or not
