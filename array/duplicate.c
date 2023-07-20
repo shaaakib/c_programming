@@ -5,6 +5,7 @@ int main(){
         for(int j=i+1; j<=6; j++){
             if(arr[i] ==arr[j]){
                 printf("%d is the duplicate element", arr[i]);
+                break;
             }
         }
     }
